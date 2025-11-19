@@ -6,7 +6,8 @@ email: [24f1000322@ds.study.iitm.ac.in](mailto:24f1000322@ds.study.iitm.ac.in)
 paginate: true
 marp: true
 theme: custom-theme
--------------------
+class: lead
+-----------
 
 <!--
 Custom Marp Theme
